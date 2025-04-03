@@ -8,10 +8,6 @@ website:
   site-url: https://allyhinton.github.io
   repo-url: https://github.com/allyhinton/allyhinton.github.io
   favicon: assets/images/uvm.ico
-  twitter-card: 
-    creator: "@Mariah-Boudreau"
-    site: "@Mariah-Boudreau"
-    card-style: "summary_large_image"
 
   navbar:
     style: "floating"
