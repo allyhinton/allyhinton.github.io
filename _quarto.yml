@@ -1,9 +1,6 @@
 project:
   type: website
-  output-dir: _site
-  render:
-    - "*.qmd"
-  
+  output-dir: docs  # Output to /docs for GitHub Pages
 
 website:
   open-graph: true
